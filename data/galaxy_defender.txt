@@ -1,0 +1,6 @@
+retro_stick
+HAT_LEFT	Move left	1	BUTTON	7	0	0.0	0.0
+HAT_RIGHT	Turn left	1	BUTTON	5	0	0.0	0.0
+BTN1	Shoot gun	1	BUTTON	8	0	0.0	0.0
+BTN8	End game	1	BUTTON	11	0	0.0	0.0
+
